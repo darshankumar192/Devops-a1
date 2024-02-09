@@ -1,0 +1,3 @@
+docker build -t <imagename> .
+docker images
+docker run --name <anyname> <imagename>
