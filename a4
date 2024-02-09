@@ -1,3 +1,8 @@
 docker build -t <imagename> .
 docker images
 docker run --name <anyname> <imagename>
+
+python
+------
+docker build -t <imagename> .
+docker run --name <previousimage name> <imagename>
