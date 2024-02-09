@@ -1,0 +1,29 @@
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (master)
+$ git init
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (master)
+$ git branch -m main
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (main)
+$ git config --> global user.email "darshanshetty192@gmail.com"
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (main)
+$ git remote add origin "https://github.com/darshankumar192/a1.git"
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (main)
+$ echo "hello" -> sample.txt
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (main)
+$ git add sample.txt
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (main)
+$ git commit -m "done"
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (main)
+$ git push origin main
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (main)
+$ git log
+
+DARSHAN KUMAR B M@LAPTOP-0B2KM38L MINGW64 ~/OneDrive/Desktop/aa1 (main)
+$ git status
