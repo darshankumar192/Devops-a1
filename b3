@@ -1,0 +1,10 @@
+vc code
+after b1
+docker tag kumara darshankumar192/old:ver1
+docker login
+docker push darshankumar192/old:ver1
+
+cmd
+docker tag kumara latest darshankumar192/kumara1
+docker tag kumara:latest darshankumar192/kumaratest1:latest
+docker push darshankumar192/kumaratest1
