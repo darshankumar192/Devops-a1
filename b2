@@ -1,0 +1,26 @@
+cmd1
+docker search mysql
+docker pull mysql
+docker run mysql
+docker run -e MYSQL_ROOT_PASSWORD="root123" -d mysql
+
+cmd2
+docker run -it mysql /bin/bash
+bash-4.4#   
+
+cmd3
+docker container ls
+docker inspect (old name)
+(copy ip address)
+
+cmd2
+bash -4.4# mysql -h 172.17.0.2 -u root -p
+enter password:root123
+show databases;
+
+cmd1(to stop sever container)
+docker container ls
+dcker stop id
+
+cmd2
+show databases;
